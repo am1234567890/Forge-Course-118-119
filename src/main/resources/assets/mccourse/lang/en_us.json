@@ -1,0 +1,58 @@
+{
+  "item.mccourse.cobalt_ingot": "Cobalt Ingot",
+  "item.mccourse.cobalt_nugget": "Cobalt Nugget",
+  "item.mccourse.raw_cobalt": "Raw Cobalt",
+  "item.mccourse.dowsing_rod": "Dowsing Rod",
+  "item.mccourse.coal_sliver": "Coal Sliver",
+  "item.mccourse.turnip": "Turnip",
+  "item.mccourse.cobalt_sword": "Cobalt Sword",
+  "item.mccourse.cobalt_shovel": "Cobalt Shovel",
+  "item.mccourse.cobalt_axe": "Cobalt Axe",
+  "item.mccourse.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.mccourse.cobalt_hoe": "Cobalt Hoe",
+  "item.mccourse.cobalt_paxel": "Cobalt Paxel",
+
+  "item.mccourse.cobalt_helmet": "Cobalt Helmet",
+  "item.mccourse.cobalt_chestplate": "Cobalt Chestplate",
+  "item.mccourse.cobalt_leggings": "Cobalt Leggings",
+  "item.mccourse.cobalt_boots": "Cobalt Boots",
+  "item.mccourse.cobalt_horse_armor": "Cobalt Horse Armor",
+  "item.mccourse.data_tablet": "Data Tablet",
+
+  "item.mccourse.turnip_seeds": "Turnip Seeds",
+  "item.mccourse.cobalt_staff": "Cobalt Staff",
+  "item.mccourse.cobalt_bow": "Cobalt Bow",
+
+  "item.mccourse.bar_brawl_music_disc": "Bar Brawl Music Disk",
+  "item.mccourse.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "block.mccourse.cobalt_block": "Cobalt Block",
+  "block.mccourse.cobalt_ore": "Cobalt Ore",
+  "block.mccourse.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+  "block.mccourse.raw_cobalt_block": "Block of Raw Cobalt",
+  "block.mccourse.speedy_block": "Speedy Block",
+  "block.mccourse.cobalt_stairs": "Cobalt Stairs",
+  "block.mccourse.cobalt_slab": "Cobalt Slab",
+  "block.mccourse.cobalt_button": "Cobalt Button",
+  "block.mccourse.cobalt_pressure_plate": "Cobalt Pressure Plate",
+  "block.mccourse.cobalt_fence": "Cobalt Fence",
+  "block.mccourse.cobalt_fence_gate": "Cobalt Fence Gate",
+  "block.mccourse.cobalt_wall": "Cobalt Wall",
+  "block.mccourse.cherry_blossom_door": "Cherry Door",
+  "block.mccourse.cherry_blossom_trapdoor": "Cherry Trapdoor",
+  "block.mccourse.cobalt_lamp": "Cobalt Lamp",
+  "block.mccourse.turnip_crop": "Turnip Crop",
+  "block.mccourse.pink_rose": "Pink Rose",
+  "block.mccourse.potted_pink_rose": "Potted Pink Rose",
+  "block.mccourse.cobalt_blaster": "Cobalt Blaster",
+
+
+  "itemGroup.coursemodtab": "MCCourse Mod",
+
+  "item.mccourse.dowsing_rod.no_valuables": "No Valuables Found!",
+  "tooltip.mccourse.dowsing_rod.tooltip.shift" : "Right Click to find Valuables!",
+  "tooltip.mccourse.dowsing_rod.tooltip" : "Press §eSHIFT§r for more Information!",
+  "tooltip.block.speedy_block": "It gets REALLY speedy!",
+
+  "enchantment.mccourse.lightning_striker": "Lighting Striker"
+}
